@@ -1,0 +1,29 @@
+.fotodc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imgdc{
+   border-radius: 50%;
+}
+
+html{
+    background-color:#bff1f2;
+}
+
+.nomedc{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.linkuvv{
+    color: coral;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
